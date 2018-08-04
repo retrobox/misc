@@ -1,4 +1,5 @@
 
+
 # RetroBox Console - Git
 <div align="center" color="#0094D2">
 	<img src="https://static.retrobox.tech/img/logo/illustration.png" height="180" alt="W" /><br><br>
@@ -10,8 +11,8 @@
 # _Si vous rencontrez le moindre problème, consulté notre wiki : [ici](https://retrobox.tech/docs)_
 
 # Logiciels nécessaires à l’exécution des fichiers :
-    * Eagle; Altium etc pour le PCB (Gerber)
     * Fusion 360; Autocad; Design Spark; SolidWorks 2017; Catia (Stl)
+    * Eagle; Altium etc pour le PCB (Gerber)
 
 ### **Electronique**
 
@@ -36,15 +37,15 @@ Les caractéristiques peuvent êtres trouvées ici : https://retrobox.tech/docs/
 ### **3D**
 
 *======================================================================*
-![alt text](https://static.retrobox.tech/img/3D_CASE_PLEXI.png "Screenshot du boîtier pexiglass pour la version kit")
-Screenshot du boîtier pexiglass pour la version kit
+![alt text](https://static.retrobox.tech/img/PlexiTOP.png "Plan de découpe PMMA pour la RetroBox")![alt text](https://static.retrobox.tech/img/PlexiBOT.png "Plan de découpe PMMA pour la RetroBox")
+Plan de découpe PMMA pour la RetroBox
 *======================================================================*
 
 
 
 __Détail__
 
-Les modèles 3D ont été créés avec Solidworks 2017 et Fusion 360, converti ensuite en .stl.
+Les modèles 3D ont été créés avec Solidworks 2017 et Fusion 360, converti ensuite en .rld pour la découpe laser.
 
 
 # **Autres :**
