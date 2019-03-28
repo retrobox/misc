@@ -1,12 +1,9 @@
-
-
-# RetroBox Console - Git
+# RetroBox Console - Misc
 <div align="center" color="#0094D2">
 	<img src="https://static.retrobox.tech/img/logo/illustration.png" height="180" alt="W" /><br><br>
 
     La console retro, open-source !
 </div>
-
 
 # _Si vous rencontrez le moindre problème, consulté notre wiki : [ici](https://retrobox.tech/docs)_
 
@@ -16,37 +13,33 @@
 
 ### **Electronique**
 
-Version THT (kit) :
-*======================================================================*
-![alt text](https://static.retrobox.tech/img/firstreleasepcb.png "Screenshot du pcb THT")
-Screenshot du pcb THT
-*======================================================================*
+![alt text](https://static.retrobox.tech/img/pcb/board.png "Screenshot du pcb THT")
+##
 
-*======================================================================*
-![alt text](https://static.retrobox.tech/img/firstreleaseschema.png "Screenshot du schema THT")
-Screenshot du schema THT
-*======================================================================*
+![alt text](https://static.retrobox.tech/img/pcb/schematics.png "Screenshot du schema THT")
+##
 
-Mis a jour le : 28/06/18
+Mis à jour le : 28/03/19
 
-__Détail :__
+__Détails :__
 
 Les caractéristiques peuvent êtres trouvées ici : https://retrobox.tech/docs/technical-specification
 
 
 ### **3D**
 
-*======================================================================*
-![alt text](https://static.retrobox.tech/img/PlexiTOP.png "Plan de découpe PMMA pour la RetroBox")![alt text](https://static.retrobox.tech/img/PlexiBOT.png "Plan de découpe PMMA pour la RetroBox")
-Plan de découpe PMMA pour la RetroBox
-*======================================================================*
+![alt text](https://static.retrobox.tech/img/PlexiTOP.png "Plan de découpe PMMA pour la RetroBox")
+##
+
+![alt text](https://static.retrobox.tech/img/PlexiBOT.png "Plan de découpe PMMA pour la RetroBox")
+Plans de découpe PMMA pour la RetroBox
 
 
+Mis à jour le : 28/03/19
+##
+__Détails__
 
-__Détail__
-
-Les modèles 3D ont été créés avec Solidworks 2017 et Fusion 360, converti ensuite en .rld pour la découpe laser.
-
+Les modèles 3D ont été créés avec Solidworks 2017, converti ensuite en .rld pour la découpe laser.
 
 # **Autres :**
 
@@ -57,8 +50,6 @@ __License :__
 __Copyright :__
 
 RetroBox & StoneSet & Wabfall & Lefuturiste & Pizzacus
-
-~ - ~
 
 Site officiel : https://retrobox.tech
 Official website : https://retrobox.tech
